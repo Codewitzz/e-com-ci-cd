@@ -23,7 +23,7 @@ export const products = [
   },
   {
     id: 4,
-    title: 'Smart Watch',
+    title: 'Watch',
     price: 249.99,
     description: 'Feature-rich smartwatch with health monitoring and notifications.',
     image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnQlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D'
