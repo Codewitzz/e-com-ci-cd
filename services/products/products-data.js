@@ -16,7 +16,7 @@ export const products = [
   },
   {
     id: 3,
-    title: 'Wireless Headphones',
+    title: 'Headphones',
     price: 149.99,
     description: 'Premium noise-cancelling headphones with crystal clear sound.',
     image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D'
