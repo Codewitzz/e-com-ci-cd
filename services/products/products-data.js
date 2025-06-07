@@ -10,20 +10,20 @@ export const products = [
   {
     id: 2,
     title: 'MacBook Pro M3',
-    price: 1300.99,
+    price: 1200.99,
     description: 'Powerful laptop for professionals with high-performance specs.',
     image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww'
   },
   {
     id: 3,
-    title: 'Headphones',
+    title: 'Wirless Headphones',
     price: 149.99,
     description: 'Premium noise-cancelling headphones with crystal clear sound.',
     image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D'
   },
   {
     id: 4,
-    title: 'Watch',
+    title: 'Smart Watch',
     price: 249.99,
     description: 'Feature-rich smartwatch with health monitoring and notifications.',
     image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnQlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D'
