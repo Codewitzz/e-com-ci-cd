@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  web:
+    image: CI-CD:latest
+    ports:
+      - "80:80"
+    command: >
+      sh -c "npm install && npm run dev"
+    environment:
