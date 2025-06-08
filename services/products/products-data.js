@@ -3,14 +3,14 @@ export const products = [
   {
     id: 1,
     title: 'iphone 15',
-    price: 499,
+    price: 699,
     description: 'Latest smartphone with advanced camera and long battery life.',
     image: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnRwaG9uZXxlbnwwfHwwfHx8MA%3D%3D'
   },
   {
     id: 2,
     title: 'MacBook Pro M3',
-    price: 1400.99,
+    price: 700.99,
     description: 'Powerful laptop for professionals with high-performance specs.',
     image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww'
   },
