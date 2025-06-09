@@ -10,11 +10,8 @@ export const products = [
   {
     id: 2,
     title: 'MacBook Pro M3',
-<<<<<<< HEAD:services/products/products-data.js
     price: 1300.99,
-=======
     price: 700.99,
->>>>>>> 64d9496f9f5bf626714b8dfbbd0b4df9f7a192e7:services/orders/products/products-data.js
     description: 'Powerful laptop for professionals with high-performance specs.',
     image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww'
   },
